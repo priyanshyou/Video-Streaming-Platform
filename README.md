@@ -4,11 +4,6 @@
 A **production-grade video streaming platform** built using **Node.js, Express, MongoDB, and React**.  
 It supports **real-time video processing, intelligent content analysis, and adaptive streaming** using HTTP Range Requests.
 
-![License](https://img.shields.io/github/license/realShailendra/Video-Streaming-Platforms?style=flat-square)
-![Node](https://img.shields.io/badge/node-%3E%3D18-green?style=flat-square)
-![MongoDB](https://img.shields.io/badge/database-MongoDB-blue?style=flat-square)
-![Status](https://img.shields.io/badge/status-Active-brightgreen?style=flat-square)
-
 ---
 
 ## 🌟 What makes VideoStream special?
@@ -93,7 +88,7 @@ It is designed with **performance, security, and production-readiness** in mind.
 
 ### Clone the repository
 ```bash
-git clone https://github.com/realShailendra/Video-Streaming-Platforms.git
+git clone https://github.com/priyanshyou/Video-Streaming-Platforms.git
 cd Video-Streaming-Platforms
 ```
 
